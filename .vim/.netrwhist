@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/dchae/PR/NPU_Linux-kernel'
+let g:netrw_dirhist_2='/home/dchae/PR/NPU_SystemService/include/host'
+let g:netrw_dirhist_3='/home/dchae/PR/NPU_Linux-kernel/drivers/misc'
+let g:netrw_dirhist_4='/etc/apt/sources.list.d'
+let g:netrw_dirhist_5='/home/dchae/Reference/dpu-fvm/scripts/driver'
+let g:netrw_dirhist_6='/home/dchae/Workspace/dkms/test1'
