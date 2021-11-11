@@ -36,16 +36,16 @@ set formatoptions+=r
 set ignorecase
 
 "Kernel
-set tabstop=8
-set softtabstop=8
+"set tabstop=8
+"set softtabstop=8
 
 "Others
-"set smartindent
-"set smarttab
-"set expandtab
-"set shiftwidth=2
-"set softtabstop=2
-"set tabstop=2
+set smartindent
+set smarttab
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+set tabstop=2
 
 " Remember the last cursor which modified sources before
 au BufReadPost *
